@@ -1,0 +1,32 @@
+body {
+    text-align: center;
+}
+
+.app {
+    width: 80%;
+    margin: 0 auto;
+    
+}
+
+.game {
+    width: 90%;
+    margin: 0 auto;
+    display: flex;
+    flex-basis: 1;
+    justify-content: center;
+}
+
+img {
+    width: 30%;
+    
+    margin: 5px;
+    cursor: pointer;
+}
+
+img:hover {
+    box-shadow: blue 5px 5px 5px 5px;
+}
+
+h1 {
+    font-size: 60px;
+}
